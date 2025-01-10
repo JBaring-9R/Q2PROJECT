@@ -92,3 +92,21 @@ h3 {
 .ribbon-btn:hover {
     background-color: #555;
 }
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: rosybrown; 
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.carousel {
+    border: transparent; 
+    border-radius: 10px;
+}
+
+.carousel-image {
+    object-fit: cover;
+    height: 400px;
+    width: 100%;
+}
